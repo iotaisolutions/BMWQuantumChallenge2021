@@ -32,7 +32,7 @@ Below table covers Technology Ecosystem for implementing this project:
 
 Programming Language| Classical (Deep) ML Framework| Quantum Compluting Development Platform | Simulator | Additional Module| Coding Collaboration Environment 
 ------------ | -------------| -------------| -------------| -------------|-------------
-  Python 3.x >= 3.7  |  Pytorch 1.9 |  Qiskit 0.29 |  IBM QASM ( With Qiskit Runtime) | QKA.PY from https://github.com/Qiskit-Partners/qiskit-runtime |Google Colab
+  Python 3.x >= 3.7  |  Pytorch 1.9 |  Qiskit 0.29 |  IBM QASM ( With Qiskit Runtime) & AER Simulator (for local) | QKA.PY from https://github.com/Qiskit-Partners/qiskit-runtime |Google Colab
                     
                      
                      
@@ -40,11 +40,11 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
   
   # Methodology 
     
-    While implementing the **Quantum Kernel Alignment Runtime** intent was to also perform a compartive study of 3 methodologies for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**) . 
+ In order to highlight the differentiating faetures, while implementing the **Quantum Kernel Alignment Runtime** a compartive study was performed across 3 methodologies (mentioned below) for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**), 
     
-    1)**Classical Convolutional Neural Networks**
-    2)**Quantum Neural Networks**
-    3) **Quantum Kernel Alignment Runtime** for **Quantum Neural Networks**
+ 1. **Classical Convolutional Neural Networks** : With complete dataset of 20k postive  & 20k negative images of 227 x 227 pixels.
+ 1. **Quantum Neural Networks** : Due to Quantum Computing resource restriction and inline with QKA methodology, considered only 100 images of 7 x 7 pixels  
+ 1. **Quantum Kernel Alignment Runtime** for **Quantum Neural Networks** : Due to Quantum Computing resource restriction, considered only 100 images of 7 x 7 pixels 
 
 
 
