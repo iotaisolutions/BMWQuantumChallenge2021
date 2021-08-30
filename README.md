@@ -36,7 +36,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
                     
                      
                      
- **Note** : **kaggle.json** with personal key is required to download **Surface Crack Detection** dataset from **Kaglge.com**
+ **Note** : **kaggle.json** credential file is required to download **Surface Crack Detection** dataset from **Kaglge.com**
   
   # Methodology 
     
