@@ -42,7 +42,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
     
  In order to highlight the differentiating faetures, while implementing the **Quantum Kernel Alignment Runtime** a compartive study was performed across 3 methodologies (mentioned below) for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**), 
     
- 1. **Classical Convolutional Neural Networks** ([Surface Crack-recognition with CNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface%20Crack-recognition%20with%20CNN%20%26%20Pytorch.ipynb)) : Used complete dataset of 20k postive  & 20k negative images of 227 x 227 pixels along with pretrained model of resnet50.
+ 1. **Classical Convolutional Neural Networks** ([Surface Crack-recognition with CNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_CNN_%26_Pytorch.ipynb)) : Used complete dataset of 20k postive  & 20k negative images of 227 x 227 pixels along with pretrained model of resnet50.
  1. **Quantum Neural Networks** ([Surface Crack-recognition with QNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_QNN_%26_Pytorch.ipynb)): Due to Quantum Computing resource restrictions and inline with QKA methodology, considered only 100 images of 7 x 7 pixels  
  1. **Quantum Kernel Alignment Runtime** for **Quantum Neural Networks** ( Surface Crack-recognition with QNN , QKA & Pytorch.ipynb): Due to Quantum Computing resource restrictions, considered only 100 images of 7 x 7 pixels 
 
