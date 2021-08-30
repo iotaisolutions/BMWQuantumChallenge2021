@@ -11,7 +11,7 @@ IEEE SERVICES Hackathon 2021 Repository
 - Vardaan Sahgal,@Vardaan Sahgal, University of Delhi (India), B.Sc. (Hons.) Physics
 - Mitesh Adake, @Mitesh, Pune Institute of Computer Technology (India), Computer Engineering
 - Vishal Sharathchandra Bajpe, @Vishal Bajpe, Sahyadri College of Engineering & Management (India), Mechanical Engineering
-- Rajatav Dutta, @Rajatav Dutta, GreenTech (India)
+- Rajatav Dutta, @Rajatav Dutta, SAP Labs (India)
 - Meghashrita Das, @Meghashrita Das,Indian institute of technology Kharagpur (India), Agricultural , Food and Financial engineering
 
 **Quantum neural networks** are computational neural network models which are based on the principles of quantum mechanics and acts application-agnostic computational units that can be used for many different use cases : like Image Processing , Natural Language Processing, computer games, function approximation, handling big data, in modelling social networks, associative memory devices, and automated control systems etc.
