@@ -3,8 +3,9 @@ IEEE SERVICES Hackathon 2021 Repository
 
 
 # QKA for QNN   
-## Exploring Quantum Kernel Alignment Runtime for optimizing Quantum Neural Network for analyzing **Surface Crack Detection** Image dataset
+## Exploring Quantum Kernel Alignment Runtime for optimizing Quantum Neural Network (processing images from **Surface Crack Detection** dataset)
 [**IEEE SERVICES HACKATHON 2021**](https://github.com/IEEEServices/hackathon-2021#the-cloud-as-a-quantum-computing-accelerator)
+
 **Members**: <!-- up to 6 members per term -->
 - Anuj Mehrotra,@iotaisolutions, IOTAONEIQ Solutions Pvt. Ltd. (India)
 - Vardaan Sahgal,@Vardaan Sahgal, University of Delhi (India), B.Sc. (Hons.) Physics
@@ -19,5 +20,33 @@ In **Quantum Machine Learning (QML)**, Quantum kernels is the approach of exploi
 
 Different quantum computing methods are used to encode classical data in a quantum-enhanced feature space. For computing quantum kernels, an algorithm called  Quantum kernel estimator (QKE) is  used which leverages quantum circuits for classical data and provides an efficient way to evaluate inner products between data in a quantum feature space.
 
-Quantum Neural Networks (QNN) are parameterized quantum circuits which acts like linear methods in quantum feature space  and suitable case for using quantum kernels and in turn can be optimized using Quantum Kernel Alignment. 
+Quantum Neural Networks (QNN) are parameterized quantum circuits which acts like linear methods in quantum feature space  and suitable case for using quantum kernels and in turn can be optimized using **Quantum Kernel Alignment (QKA)**. 
+
+QKA is an iterative quantum-classical algorithm, in which quantum hardware is used to execute parametrized quantum circuits  for evaluating the quantum kernel matrices with QKE, while a classical optimizer tunes the parameters of those circuits to maximize the alignment. Iterative algorithms of this type can be slow due to latency between the quantum and classical calculations. 
+
+Qiskit Runtime is a new architecture that can speed up iterative algorithms like QKA by co-locating classical computations with the quantum hardware executions.
+
+In this project, in order to showcase an application of **Quantum Kernel Alignment Runtime** , QKA was used foroptimizing Quantum Neural Network, which processes images from **Surface Crack Detection** dataset (**Kaggle.com**) and can be scaled up & used as a module in **Automated Quality Management** in assembly line of Manufacturing Factory units (like of Automobile).
+
+Below table covers Technology Ecosystem for implementing this project:
+
+Programming Language| Classical (Deep) ML Framework| Quantum Compluting Development Platform | Simulator | Additional Module| Coding Collaboration Environment 
+------------ | -------------| -------------| -------------| -------------|-------------
+  Python 3.x >= 3.7  |  Pytorch 1.9 |  Qiskit 0.29 |  IBM QASM ( With Qiskit Runtime) | QKA.PY from |Google Colab
+                     |              |              |                                  | https://github.com/Qiskit-Partners/qiskit-runtime|
+                     
+                     
+ **Note** : A personal **kaggle.json** is required to download **Surface Crack Detection** dataset from **Kaglge.com**
+  
+  # Methodology 
+    
+    While implementing the **Quantum Kernel Alignment Runtime** intent was to also perform a compartive study of 3 methodologies for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**) . 
+    
+    1)**Classical Convolutional Neural Networks**
+    2)**Quantum Neural Networks**
+    3) **Quantum Kernel Alignment Runtime** for **Quantum Neural Networks**
+
+
+
+
 
