@@ -32,8 +32,8 @@ Below table covers Technology Ecosystem for implementing this project:
 
 Programming Language| Classical (Deep) ML Framework| Quantum Compluting Development Platform | Simulator | Additional Module| Coding Collaboration Environment 
 ------------ | -------------| -------------| -------------| -------------|-------------
-  Python 3.x >= 3.7  |  Pytorch 1.9 |  Qiskit 0.29 |  IBM QASM ( With Qiskit Runtime) | QKA.PY from |Google Colab
-                     |              |              |                                  | https://github.com/Qiskit-Partners/qiskit-runtime|
+  Python 3.x >= 3.7  |  Pytorch 1.9 |  Qiskit 0.29 |  IBM QASM ( With Qiskit Runtime) | QKA.PY from https://github.com/Qiskit-Partners/qiskit-runtime |Google Colab
+                    
                      
                      
  **Note** : A personal **kaggle.json** is required to download **Surface Crack Detection** dataset from **Kaglge.com**
