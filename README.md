@@ -28,7 +28,9 @@ Qiskit Runtime is a new architecture that can speed up iterative algorithms like
 
 In this project, in order to showcase an application of **Quantum Kernel Alignment Runtime** , QKA was used foroptimizing Quantum Neural Network, which processes images from **Surface Crack Detection** dataset (**Kaggle.com**) and can be scaled up & used as a module in **Automated Quality Management** in assembly line of Manufacturing Factory units (like of Automobile).
 
-Below table covers Technology Ecosystem for implementing this project:
+  
+# Technology stack
+Below table covers Technology Stack for implementing this project:
 
 Programming Language| Classical (Deep) ML Framework| Quantum Compluting Development Platform | Simulator | Additional Module| Coding Collaboration Environment 
 ------------ | -------------| -------------| -------------| -------------|-------------
@@ -37,9 +39,9 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
                      
                      
  **Note** : **kaggle.json** credential file is required to download **Surface Crack Detection** dataset from **Kaglge.com**
-  
-  # Methodology 
-    
+
+ # Design decisions and architecture
+ 
  In order to highlight the differentiating faetures, while implementing the **Quantum Kernel Alignment Runtime** a compartive study was performed across 3 methodologies (mentioned below) for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**), 
     
  1. **Classical Convolutional Neural Networks** ([Surface Crack-recognition with CNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_CNN_%26_Pytorch.ipynb)) : Used complete dataset of 20k postive  & 20k negative images of 227 x 227 pixels along with pretrained model of resnet50.
