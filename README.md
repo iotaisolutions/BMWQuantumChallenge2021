@@ -32,7 +32,7 @@ Below table covers Technology Ecosystem for implementing this project:
 
 Programming Language| Classical (Deep) ML Framework| Quantum Compluting Development Platform | Simulator | Additional Module| Coding Collaboration Environment 
 ------------ | -------------| -------------| -------------| -------------|-------------
-  Python 3.x >= 3.7  |  Pytorch 1.9 |  Qiskit 0.29 |  IBM QASM ( With Qiskit Runtime) & AER Simulator (for local) | QKA.PY from https://github.com/Qiskit-Partners/qiskit-runtime |Google Colab
+  ![Python](https://img.shields.io/badge/python%203.x%20>=%203.7-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |  ![PyTorch](https://img.shields.io/badge/PyTorch%201.9-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |  ![Qiskit](https://img.shields.io/badge/Qiskit%200.29-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) |  IBM QASM ( With Qiskit Runtime) & AER Simulator (for local) | QKA.PY from https://github.com/Qiskit-Partners/qiskit-runtime | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
                     
                      
                      
