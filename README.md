@@ -48,6 +48,13 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
  1. **Quantum Neural Networks** ([Surface Crack-recognition with QNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_QNN_%26_Pytorch.ipynb)): Due to Quantum Computing resource restrictions and inline with QKA methodology, considered only 100 images of 7 x 7 pixels , with single convolution layer and fully connected layer apart from Hybrid layer.
  1. **Quantum Kernel Alignment Runtime** for **Quantum Neural Networks** ( [Surface Crack-recognition with QKA,QNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_QKA_%2CQNN_%26_Pytorch.ipynb)): Due to Quantum Computing resource restrictions, considered only 100 images of 7 x 7 pixels, with single convolution layer and fully connected layer apart from Hybrid layer. 
 
+# [Project Report](https://github.com/iotaisolutions/hackathon-submission/blob/main/Reports/QISKIT%20RUNTIME%20APPLICATIONS%20IN%20SURFACE%20CRACK%20DETECTION.pdf) : The report contextualizes the project and summarizes the software design process covering below mentioned aspects: 
+1. Motivation
+2. Innovation
+3. Applicability
+4. Role of Qiskit Runtime
+5. Technology stack, design decisions, and architecture.
+6. Future applications
 
 **Note** By the time of final submission (  30th Aug, 2021), we didn't received any endrosement for arXiv.org, so don't have arXiv link for our final report.
 ![Pending arXiv Endrosement](https://github.com/iotaisolutions/hackathon-submission/blob/main/Reports/arxiv%20Endrosement%20Error.JPG)
