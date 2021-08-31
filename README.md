@@ -50,7 +50,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
 
 
 **Note** By the time of final submission (  30th Aug, 2021), we didn't received any endrosement for arXiv.org, so don't have arXiv link for our final report.
-
+![Pending arXiv Endrosement] (/Reports/arxiv Endrosement Error.jpg)
 
 
 
