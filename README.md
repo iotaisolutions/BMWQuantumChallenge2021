@@ -49,6 +49,8 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
  1. **Quantum Kernel Alignment Runtime** for **Quantum Neural Networks** ( [Surface Crack-recognition with QKA,QNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_QKA_%2CQNN_%26_Pytorch.ipynb)): Due to Quantum Computing resource restrictions, considered only 100 images of 7 x 7 pixels, with single convolution layer and fully connected layer apart from Hybrid layer. 
 
 
+**Note** By the time of final submission (  30th Aug, 2021), we didn't received any endrosement for arXiv.org, so don't have arXiv link for our final report.
+
 
 
 
