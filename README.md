@@ -2,7 +2,7 @@
 BMW Quantum Computing Challenge 2021 Repository
 
 
-# Qunatum Defect Analyser 
+# Quantum Defect Analyser 
 ## Quantum Neural Network Solution for Automated Quality Asessment (processing images from **Surface Crack Detection** dataset)
 [**BMW Quantum Challenge 2021**](https://www.press.bmwgroup.com/global/article/detail/T0337884EN/quantum-computing:-bmw-group-launches-%E2%80%9Cquantum-computing-challenge%E2%80%9D-in-collaboration-with-aws-to-crowd-source-innovation?language=enr)
 
