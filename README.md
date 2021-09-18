@@ -2,9 +2,9 @@
 BMW Quantum Computing Challenge 2021 Repository
 
 
-# QKA for QNN   
-## Exploring Quantum Kernel Alignment Runtime for optimizing Quantum Neural Network (processing images from **Surface Crack Detection** dataset)
-[**IEEE SERVICES HACKATHON 2021**](https://github.com/IEEEServices/hackathon-2021#the-cloud-as-a-quantum-computing-accelerator)
+# Qunatum Defect Analyser 
+## Quantum Neural Network Solution for Automated Quality Asessment (processing images from **Surface Crack Detection** dataset)
+[**BMW Quantum Challenge 2021**](https://www.press.bmwgroup.com/global/article/detail/T0337884EN/quantum-computing:-bmw-group-launches-%E2%80%9Cquantum-computing-challenge%E2%80%9D-in-collaboration-with-aws-to-crowd-source-innovation?language=enr)
 
 **Members**: <!-- up to 6 members per term -->
 - Anuj Mehrotra,@iotaisolutions, IOTAONEIQ Solutions Pvt. Ltd. (India)
