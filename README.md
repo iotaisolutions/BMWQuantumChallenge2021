@@ -1,5 +1,5 @@
-# hackathon-submission
-IEEE SERVICES Hackathon 2021 Repository
+# Quantum computing: BMW Group “Quantum Computing Challenge” in collaboration with AWS to crowd-source innovation.
+BMW Quantum Computing Challenge 2021 Repository
 
 
 # QKA for QNN   
