@@ -22,9 +22,8 @@ Quantum Neural Networks (QNN) are parameterized quantum circuits which acts like
 
 QKA is an iterative quantum-classical algorithm, in which quantum hardware is used to execute parametrized quantum circuits  for evaluating the quantum kernel matrices with QKE, while a classical optimizer tunes the parameters of those circuits to maximize the alignment. Iterative algorithms of this type can be slow due to latency between the quantum and classical calculations. 
 
-Qiskit Runtime is a new architecture that can speed up iterative algorithms like QKA by co-locating classical computations with the quantum hardware executions.
 
-In this project, in order to showcase an application of **Quantum Kernel Alignment Runtime** , QKA was used foroptimizing Quantum Neural Network, which processes images from **Surface Crack Detection** dataset (**Kaggle.com**) and can be scaled up & used as a module in **Automated Quality Management** in assembly line of Manufacturing Factory units (like of Automobile).
+In this project, in order to showcase an application of **Quantum Kernel Alignment ** , QKA was used foroptimizing Quantum Neural Network, which processes images from **Surface Crack Detection** dataset (**Kaggle.com**) and can be scaled up & used as a module in **Automated Quality Management** in assembly line of Manufacturing Factory units (like of Automobile).
 
   
 # Technology stack
@@ -32,7 +31,7 @@ Below table covers Technology Stack for implementing this project:
 
 Programming Language| Classical (Deep) ML Framework| Quantum Compluting Development Platform | Simulator | Additional Module| Coding Collaboration Environment 
 ------------ | -------------| -------------| -------------| -------------|-------------
-  ![Python](https://img.shields.io/badge/python%203.x%20>=%203.7-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |  ![PyTorch](https://img.shields.io/badge/PyTorch%201.9-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |  ![Qiskit](https://img.shields.io/badge/Qiskit%200.29-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) |  IBM QASM ( With Qiskit Runtime) & AER Simulator (for local) | Qiskit Quantum Machine Learning Application Module | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+  ![Python](https://img.shields.io/badge/python%203.x%20>=%203.7-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |  ![PyTorch](https://img.shields.io/badge/PyTorch%201.9-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |  ![Qiskit](https://img.shields.io/badge/Qiskit%200.29-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) |  IBM QASM & AER Simulator (for local) | Qiskit Quantum Machine Learning Application Module | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
                     
                      
                      
@@ -40,7 +39,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
 
  # Design decisions and architecture
  
- In order to highlight the differentiating faetures, while implementing the **Quantum Kernel Alignment Runtime** a compartive study was performed across 3 methodologies (mentioned below) for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**), 
+ In order to highlight the differentiating faetures, while implementing the **Quantum Kernel Alignment** a compartive study was performed across 3 methodologies (mentioned below) for same problem of processing images from **Surface Crack Detection** dataset (**Kaggle.com**), 
     
  1. **Classical Convolutional Neural Networks** ([Surface Crack-recognition with CNN & Pytorch](https://github.com/iotaisolutions/BMWQunatumChallenge2021/blob/main/code/Surface_Crack_recognition_with_CNN_%26_Pytorch_Reduced_Sample_Size.ipynb)) : From original dataset of 20k positive & negative images, only used a sample subset of 1000 postive  & negative images of 227 x 227 pixels along with pretrained model of resnet50.
  1. **Quantum Neural Networks** ([Surface Crack-recognition with QNN & Pytorch](https://github.com/iotaisolutions/hackathon-submission/blob/main/code/Surface_Crack_recognition_with_QNN_%26_Pytorch.ipynb)): From original dataset of 20k positive & negative images, only used a sample subset of 1000 postive  & negative images of 227 x 227 pixels, with two convolution layer and fully connected layer apart from Hybrid layer.
