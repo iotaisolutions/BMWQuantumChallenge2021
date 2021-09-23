@@ -7,12 +7,10 @@ BMW Quantum Computing Challenge 2021 Repository
 [**BMW Quantum Challenge 2021**](https://www.press.bmwgroup.com/global/article/detail/T0337884EN/quantum-computing:-bmw-group-launches-%E2%80%9Cquantum-computing-challenge%E2%80%9D-in-collaboration-with-aws-to-crowd-source-innovation?language=enr)
 
 **Members**: <!-- up to 6 members per term -->
-- Anuj Mehrotra,@iotaisolutions, IOTAONEIQ Solutions Pvt. Ltd. (India)
-- Vardaan Sahgal,@Vardaan Sahgal, University of Delhi (India), B.Sc. (Hons.) Physics
-- Mitesh Adake, @Mitesh, Pune Institute of Computer Technology (India), Computer Engineering
-- Vishal Sharathchandra Bajpe, @Vishal Bajpe, Sahyadri College of Engineering & Management (India), Mechanical Engineering
-- Rajatav Dutta, @Rajatav Dutta, SAP Labs (India)
-- Meghashrita Das, @Meghashrita Das,Indian institute of technology Kharagpur (India), Agricultural , Food and Financial engineering
+- **Anuj Mehrotra**,@iotaisolutions, IOTAONEIQ Solutions Pvt. Ltd. (India)| IBM Qiskit Advocate
+- **Vardaan Sahgal**,@Vardaan Sahgal, University of Delhi (India), B.Sc. (Hons.) Physics
+- **Meghashrita Das**, @Meghashrita Das,Indian institute of technology Kharagpur (India), Agricultural , Food and Financial engineering
+- **Amaury de Miguel**,Software and system engineer in training : Thales | Data analysis engineering school student | MSc physics student | IBM Qiskit Advocate
 
 **Quantum neural networks** are computational neural network models which are based on the principles of quantum mechanics and acts application-agnostic computational units that can be used for many different use cases : like Image Processing , Natural Language Processing, computer games, function approximation, handling big data, in modelling social networks, associative memory devices, and automated control systems etc.
 
@@ -58,8 +56,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
 5. Technology stack, design decisions, and architecture.
 6. Future applications
 
-**Note** By the time of final submission (  30th Aug, 2021), we didn't received any endrosement for arXiv.org, so don't have arXiv link for our final report.
-![Pending arXiv Endrosement](https://github.com/iotaisolutions/hackathon-submission/blob/main/Reports/arxiv%20Endrosement%20Error.JPG)
+
 
 
 
