@@ -7,10 +7,10 @@ BMW Quantum Computing Challenge 2021 Repository
 [**BMW Quantum Challenge 2021**](https://www.press.bmwgroup.com/global/article/detail/T0337884EN/quantum-computing:-bmw-group-launches-%E2%80%9Cquantum-computing-challenge%E2%80%9D-in-collaboration-with-aws-to-crowd-source-innovation?language=enr)
 
 **Members**: <!-- up to 6 members per term -->
-- **Anuj Mehrotra**,@iotaisolutions, IOTAONEIQ Solutions Pvt. Ltd. (India)| IBM Qiskit Advocate
-- **Vardaan Sahgal**,@Varary73, Netaji Subhas University of Technology (India), M.Sc. Physics
-- **Meghashrita Das**, @Meghashrita Das,Indian Institute of Technology Kharagpur (India), Agricultural , Food and Financial engineering
-- **Amaury de Miguel**,Software and system engineer in training : Thales | Data analysis engineering school student | MSc physics student | IBM Qiskit Advocate
+- **Anuj Mehrotra**, @iotaisolutions, IOTAONEIQ Solutions Pvt. Ltd. (India) | IBM Qiskit Advocate
+- **Vardaan Sahgal**, @Varary73, Netaji Subhas University of Technology (India), M.Sc. Physics
+- **Meghashrita Das**, @Meghashrita Das, Indian Institute of Technology Kharagpur (India), Agricultural, Food and Financial engineering
+- **Amaury de Miguel**, @AmauryDM, ISEP Engineering School (France), Data Analysis and Machine Learning | IBM Qiskit Advocate
 
 **Quantum neural networks** are computational neural network models which are based on the principles of quantum mechanics and acts application-agnostic computational units that can be used for many different use cases : like Image Processing , Natural Language Processing, computer games, function approximation, handling big data, in modelling social networks, associative memory devices, and automated control systems etc.
 
