@@ -45,7 +45,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
  2. **Quantum Neural Networks** ([Surface Crack-recognition with QNN & Pytorch](https://github.com/iotaisolutions/BMWQuantumChallenge2021/blob/main/code/Surface_Crack_recognition_with_QNN_%26_Pytorch_Reduced_Sample_Size.ipynb)): From original dataset of 20k positive & negative images, only used a sample subset of 1000 postive  & negative images of 227 x 227 pixels, 5 CNN layers apart from Hybrid (Quantum) layer.
  3. **Quantum Kernel Alignment** for **Quantum Neural Networks** ( [Surface Crack-recognition with QKA, QNN & Pytorch](https://github.com/iotaisolutions/BMWQuantumChallenge2021/blob/main/code/Surface_Crack_recognition_with_QKA_QNN_%26_Pytorch_Reduced_Sample_Size.ipynb)): Due to Quantum Computing resource restrictions, considered only 1000 images of 8 x 8 pixels, with 3 CNN layer, one custom layer convolutional layer with weights from QKA and one Hybrid (Quantum) layer. 
 
-# [Project Report](https://github.com/iotaisolutions/hackathon-submission/blob/main/Reports/QISKIT%20RUNTIME%20APPLICATIONS%20IN%20SURFACE%20CRACK%20DETECTION.pdf) :
+# [Project Report](https://github.com/iotaisolutions/BMWQuantumChallenge2021/blob/main/Reports/BMW_Quantum_Computing_Challenge_Solution%20Description.pdf) :
 ## The report contextualizes the project and summarizes the software design process covering below mentioned aspects: 
 
 1. Motivation
