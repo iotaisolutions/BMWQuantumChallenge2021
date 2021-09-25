@@ -51,7 +51,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
 1. Motivation
 2. Innovation
 3. Applicability
-4. Role of Qiskit Runtime
+4. Role of QKA for QNN
 5. Technology stack, design decisions, and architecture.
 6. Future Plan for Round 2
 
