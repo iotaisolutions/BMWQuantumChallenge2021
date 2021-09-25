@@ -53,7 +53,7 @@ Programming Language| Classical (Deep) ML Framework| Quantum Compluting Developm
 3. Applicability
 4. Role of Qiskit Runtime
 5. Technology stack, design decisions, and architecture.
-6. Future applications
+6. Future Plan for Round 2
 
 
 
